@@ -1,5 +1,5 @@
 buildscript {
-    ext.kotlin_version = '1.5.20' // Updated Kotlin version
+    ext.kotlin_version = '2.1.10' // Updated Kotlin version
     repositories {
         google()
         mavenCentral() // jcenter() is deprecated; use mavenCentral() instead
